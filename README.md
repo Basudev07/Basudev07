@@ -4,7 +4,7 @@ Hi! I'm **Basudev Mondal**, a passionate and self-driven developer who loves cra
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 🌐 Frontend:<p>
 <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,tailwindcss" />
@@ -21,7 +21,7 @@ Hi! I'm **Basudev Mondal**, a passionate and self-driven developer who loves cra
 
 ---
 
-## 📌 What I’m Currently Working On
+## What I’m Currently Working On
 
 - Building dynamic full-stack web apps using **NextJS & TailwindCSS**
 - Exploring modern JS frameworks and deeper backend integrations
@@ -29,13 +29,13 @@ Hi! I'm **Basudev Mondal**, a passionate and self-driven developer who loves cra
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 - LinkedIn: *www.linkedin.com/in/basudev-mondal-694a73291*
 
 ---
 
-### ✨ “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+###  *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
 Feel free to explore my repositories, open issues, or collaborate on projects. Let’s build something awesome together!
 
