@@ -1,4 +1,4 @@
-### Web Developer | Full Stack Enthusiast
+Web Developer | Full Stack Enthusiast
 
 Hi! I'm **Basudev Mondal**, a passionate and self-driven developer who loves crafting elegant, responsive, and efficient web applications. With a solid foundation in **HTML, CSS, JavaScript, PHP**, and **Node.js**, I enjoy turning complex problems into simple, beautiful, and intuitive digital experiences.
 
