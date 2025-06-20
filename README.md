@@ -31,7 +31,13 @@ Hi! I'm **Basudev Mondal**, a passionate and self-driven developer who loves cra
 
 ## Connect with Me
 
-- LinkedIn: *www.linkedin.com/in/basudev-mondal-694a73291*
+  <p align="center">
+  <a href="https://github.com/Basudev07"><img src="https://img.shields.io/badge/GitHub-Basudev07-black?style=for-the-badge&logo=github">     </a>
+  <a href="mailto:basudevmondal740@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail">   </a>
+  <a href="www.linkedin.com/in/basudev-mondal-694a73291" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
@@ -46,6 +52,8 @@ Feel free to explore my repositories, open issues, or collaborate on projects. L
 <p>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
+
 
 
 *- B A S U D E V*
